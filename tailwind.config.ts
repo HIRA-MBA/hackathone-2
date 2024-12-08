@@ -7,11 +7,14 @@ const config: Config = {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    extend: {
+    extend: {  fontFamily: {
+      jakarta: ['"Jakarta Sans"', 'sans-serif'], // Add Jakarta font
+    },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+    
     },
   },
   plugins: [],
