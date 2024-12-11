@@ -1,8 +1,6 @@
 
 import Popularcar from "@/components/popularcar";
 import Recomended from "@/components/Recomended";
-import Link from "next/link";
-
 import Heroimage from "@/components/heroimage";
 import Purpose from "@/components/purpose";
 
@@ -19,11 +17,7 @@ export default function Home() {
   return (
     <div className="mt-2 gap-1 bg-[#C3D4E9] ">
       
-      <ul className="w-[273px] md:w-full flex  justify-center items-center gap-4">
-        <li><Link href="/">Home</Link></li>
-        <li><Link href="./Category">Category</Link></li>
-        <li><Link href="./CarRent">Car Rent</Link></li>
-      </ul>
+     
       
       <Heroimage/>
       <Purpose/>
