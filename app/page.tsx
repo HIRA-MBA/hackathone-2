@@ -113,7 +113,7 @@ export default function Home() {
       type="manual" 
       people="6" 
       price="76" 
-      img="./images/recomCar/Car3.svg" 
+      img="./images/recomCar/car3.svg" 
     />
     <Recomended 
       carname="CR - V" 
@@ -122,7 +122,7 @@ export default function Home() {
       type="manual" 
       people="6" 
       price="80" 
-      img="./images/recomCar/car4.svg" 
+      img="./images/recomCar/CAR4.svg" 
     />
     <Recomended 
       carname="MG ZX Exclusive" 
@@ -142,7 +142,7 @@ export default function Home() {
       people="6" 
       price="80.00" 
       Avg="90.00" 
-      img="./images/recomCar/car4.svg" 
+      img="./images/recomCar/CAR4.svg" 
     />
     <Recomended 
       carname="MG ZX Excite" 

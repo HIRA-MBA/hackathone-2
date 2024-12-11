@@ -59,7 +59,7 @@ const Category = () => {
       type="manual" 
       people="6" 
       price="80" 
-      img="./images/recomCar/car4.svg" 
+      img="./images/recomCar/CAR4.svg" 
     />
     <Recomended 
       carname="MG ZX Exclusive" 
@@ -79,7 +79,7 @@ const Category = () => {
       people="6" 
       price="80.00" 
       Avg="90.00" 
-      img="./images/recomCar/car4.svg" 
+      img="./images/recomCar/CAR4.svg" 
     />
     <Recomended 
       carname="MG ZX Excite" 
