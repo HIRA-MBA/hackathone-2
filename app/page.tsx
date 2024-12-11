@@ -113,7 +113,7 @@ export default function Home() {
       type="manual" 
       people="6" 
       price="76" 
-      img="./images/recomCar/car3.svg" 
+      img="./images/recomCar/Car3.svg" 
     />
     <Recomended 
       carname="CR - V" 
